@@ -9,6 +9,5 @@ public class Launcher {
     private static final Logger LOGGER = LoggerFactory.getLogger(Database.class);
 
     public static void main(String[] args) throws SQLException {
-
     }
 }
